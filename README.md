@@ -2,7 +2,7 @@
 <h3 align="center">I am a 3rd year B.Tech student looking forward for opportunities and collabaration in projects related to web and app development.</h3>
 
 - 🔭 I’m currently working on **App Development.**
-
+ 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **Web & App development projects.**
